@@ -36,7 +36,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 
 ---
 
@@ -57,12 +56,8 @@
 - Designed fallback communication layers and optimized transmission latency.
 
 #### 🔸 Sensor Fusion & Digital Signal Processing
-- Integrated IMU sensors and implemented **real-time tilt/rotation estimation** using digital filtering and fusion algorithms.
+- Integrated IMU sensors and implemented **real-time tilt/rotation estimation** using digital filtering.
 - Achieved high precision and low reaction time with **RTOS-based scheduling and shared memory**.
-
-#### 🔸 Embedded Middleware & Porting
-- Created robust middleware for **non-volatile memory (FRAM)** with structured API and error management.
-- Ported legacy code to **64-bit Linux**, reworked toolchains, and dockerized build environments.
 
 #### 🔸 Secure System Architecture
 - Worked with **ARM TrustZone**, **OP-TEE**, and **secure boot** mechanisms.
@@ -75,7 +70,6 @@
 - 🧱 Master **Linux kernel driver development** for embedded platforms (e.g., device drivers, char drivers).
 - 🧠 Explore **multicore ARM architectures**, including memory hierarchy, cache coherence, and inter-core communication.
 - 🔐 Continue advancing in **secure embedded systems**, focusing on trusted environments and hardware root-of-trust.
-- 🛠️ Build reliable **OTA update pipelines** and edge-oriented real-time solutions.
 - 📚 Share knowledge via open-source contributions, technical articles, and embedded software patterns.
 
 ---
